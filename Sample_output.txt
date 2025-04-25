@@ -1,0 +1,24 @@
+Fluffy's Status:
+Hunger: 5/10
+Energy: 5/10
+Happiness: 5/10
+Fluffy doesn't know any tricks yet.
+Fluffy ate some food. Hunger decreased, happiness increased!
+Fluffy played happily!
+Fluffy took a nap. Energy increased!
+
+Fluffy's Status:
+Hunger: 3/10
+Energy: 8/10
+Happiness: 8/10
+Fluffy doesn't know any tricks yet.
+Fluffy learned a new trick: sit!
+Fluffy learned a new trick: roll over!
+Fluffy learned a new trick: play dead!
+Fluffy knows these tricks: sit, roll over, play dead
+
+Fluffy's Status:
+Hunger: 3/10
+Energy: 2/10
+Happiness: 8/10
+Tricks known: sit, roll over, play dead
